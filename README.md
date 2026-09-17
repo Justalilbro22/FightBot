@@ -4,7 +4,7 @@
 💻 Software
 
 Node.js 24+                          
-Minecraft Java Edition          
+Minecraft Java Edition 1.21.11         
 A Minecraft server running on localhost:25565            
 Internet connection for installing npm packages
 
