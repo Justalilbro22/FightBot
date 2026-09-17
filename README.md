@@ -4,15 +4,11 @@
 💻 Software
 
 Node.js 24+
-
 Minecraft Java Edition
-
 A Minecraft server running on localhost:25565
-
 Internet connection for installing npm packages
 
-📦 Required Node.js packages
-
+📦 Required Node.js packages:
 Run these inside the FightBot folder:
 
 npm install mineflayer
