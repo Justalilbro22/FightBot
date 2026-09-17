@@ -9,7 +9,7 @@ A Minecraft server running on localhost:25565
 Internet connection for installing npm packages
 
 📦 Required Node.js packages 
-Run these inside the FightBot folder:
+Run these inside the FightBot folder (dont do this already installed in the zip file):
 
 npm install mineflayer
 
