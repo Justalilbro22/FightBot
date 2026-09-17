@@ -11,8 +11,11 @@ Internet connection for installing npm packages
 Run these inside the FightBot folder:
 
 npm install mineflayer
+
 npm install mineflayer-pathfinder
+
 npm install vec3
+
 npm install minecraft-data
 
 FightBot is a PvP training bot designed to fight players.
